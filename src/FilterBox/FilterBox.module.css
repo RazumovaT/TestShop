@@ -1,0 +1,11 @@
+.card {
+  width: 260px;
+  height: 100%;
+  margin-top: 80px;
+  margin-left: 100px;
+  /* background-color: #92a8d1; */
+}
+.checkbox {
+  font-size: 18px;
+  color: #92a8d1;
+}
